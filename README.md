@@ -15,4 +15,6 @@ Lablab ai hackathon submission, using Yi 34 B to extend the ideas of an ARXIV pa
 - Install required packages:
   ```bash
   pip install -r requirements.txt
-
+  export FLASK_APP=arxiv_summarizer.py
+  export REPLICATE_API_TOKEN= <your token>
+  flask run
