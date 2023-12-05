@@ -7,6 +7,9 @@ Lablab ai hackathon submission, using Yi 34 B to extend the ideas of an ARXIV pa
 - Access to Yi-34 B model (token provided for judges)
 - `replicate` Python package
 - Arxiv paper URL and the target field for application
+- Arxiv data with metadata json file (since 12/2022 to 08/2023)
+-   https://arxiv-r-1228.s3.us-west-1.amazonaws.com/arxiv_12_28_2022.json
+-   https://arxiv-r-1228.s3.us-west-1.amazonaws.com/annoy_index_since_dec22.ann
 
 ## Steps
 
