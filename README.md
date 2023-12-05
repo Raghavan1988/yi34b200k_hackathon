@@ -18,3 +18,4 @@ Lablab ai hackathon submission, using Yi 34 B to extend the ideas of an ARXIV pa
   export FLASK_APP=arxiv_summarizer.py
   export REPLICATE_API_TOKEN= <your token>
   flask run
+![Screenshot from 2023-12-04 23-38-09](https://github.com/Raghavan1988/yi34b200k_hackathon/assets/493090/08d58e6e-11b0-49f9-a50e-a07f4416270b)
